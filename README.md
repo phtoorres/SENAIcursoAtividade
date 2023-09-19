@@ -14,3 +14,6 @@ git status
 git commit
 git push
 git pull
+
+
+lembrei do comando: git status
